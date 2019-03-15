@@ -1,0 +1,19 @@
+{
+  "name": "meiosis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "src": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "http-server": "^0.11.1",
+    "parcel-bundler": "^1.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
